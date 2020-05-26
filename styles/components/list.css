@@ -1,0 +1,12 @@
+.list-title {
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 31px;
+}
+.list > .list-item {
+  margin-bottom: 11px;
+}
